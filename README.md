@@ -1,4 +1,4 @@
-no longer my _de facto_ default forge :salute:
+no longer my _de facto_ default forge 🫡
 
 | where | what |
 | :---: | :--- |
